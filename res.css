@@ -1,0 +1,8 @@
+@media all and (max-width : 670px){
+    * {box-sizing:  border-box;}
+    .product li{
+        width: 50%;
+        padding: 5px;
+    }
+
+}
